@@ -13,7 +13,8 @@
   "files": [
     "Helicopter.js",
     "Helicopter.d.ts",
-    "Helicopter.js.map"
+    "Helicopter.js.map",
+    "Helicopter.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
